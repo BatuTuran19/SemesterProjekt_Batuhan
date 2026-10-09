@@ -43,5 +43,6 @@ Das Projekt verwendet nur strukturierte Programmierung: statische Methoden, Arra
 - `src/Minesweeper/Feld.java`: einfache Klasse für ein einzelnes Feld
 - `features.md`: Liste der Funktionen
 - `agents.md`: Anweisungen für KI-Assistenten
+- `promptdiary.md`: alle Prompts, die bei der Entwicklung verwendet wurden
 
-Die Ordner `src/Test` und `src/Textadventure` sind Übungen und gehören nicht zur Abgabe.
+Der Ordner `src/Test` ist eine Übung und gehört nicht zur Abgabe.

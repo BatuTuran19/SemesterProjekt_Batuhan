@@ -4,7 +4,7 @@
 
 - Minesweeper als Konsolenanwendung in Java
 - Semesterprojekt im 1. Semester (Strukturiertes Programmieren)
-- Abgegeben wird nur `src/Minesweeper/`. Die Ordner `src/Test` und `src/Textadventure` nicht verändern.
+- Abgegeben wird nur `src/Minesweeper/`. Den Ordner `src/Test` nicht verändern.
 
 ## Vorgabe (muss immer eingehalten werden)
 
