@@ -30,3 +30,6 @@ bin/
 .DS_Store
 ### Claude Code ###
 .claude/settings.local.json
+
+### Abgabe ###
+Abgabe_Git_Link.txt
