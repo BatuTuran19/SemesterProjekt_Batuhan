@@ -41,6 +41,7 @@ Das Projekt verwendet nur strukturierte Programmierung: statische Methoden, Arra
 
 - `src/Minesweeper/Minesweeper.java`: Spielablauf, Eingabe und Ausgabe
 - `src/Minesweeper/Feld.java`: einfache Klasse für ein einzelnes Feld
+- `manual.md`: Bedienungsanleitung
 - `features.md`: Liste der Funktionen
 - `agents.md`: Anweisungen für KI-Assistenten
 - `promptdiary.md`: alle Prompts, die bei der Entwicklung verwendet wurden

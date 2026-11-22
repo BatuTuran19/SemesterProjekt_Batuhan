@@ -94,3 +94,25 @@ Alle Prompts stehen hier wörtlich und in zeitlicher Reihenfolge.
 
 **24.** 22:39 · Claude-App
 > Wenn du sowieso alles siehst erstell mir bitte auch das Promptdiary. Es soll einfach meine eingegebenen Prompts beinhalten
+
+---
+
+## 22.11.2026
+
+**25.** IntelliJ
+> hi
+
+**26.** IntelliJ · *mit eingefügter Aufgabenstellung*
+> Das ist meine nächste Aufgabe für das projekt,
+> Ich habe alles schon fertig eigentlich aber mach das alles außer den Screenshot:
+> Upload your project progress (as zip file or txt with git link).
+>
+> Upload a screenshot of a break point at which you stopped to debug your personal project code.
+>
+> It must include:
+>
+> first basic application code
+> code must compile
+> manual.md explaining how to interact with the application
+> at least one feature of your description must be implemented (check mark at feature in feature.md)
+> prompt diary
